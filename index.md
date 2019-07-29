@@ -126,7 +126,7 @@ We're excited about the progress we've made since we got this effort off the gro
   * We also updated integrations for new APIs from Google Photos and Smugmug that will enable users to move their photos between these services.
   * We have added new integrations for Deezer, Mastodon, and Solid.
 
-The engineering work we’ve done through the Project has highlighted the importance of working with stakeholders to develop guidelines around portability. If you'd like to follow the latest developments with the Project, sign up for dtp-discuss@googlegroup.com [here](https://groups.google.com/forum/#!forum/dtp-discuss).
+The engineering work we’ve done through the Project has highlighted the importance of working with stakeholders to develop guidelines around portability. If you'd like to follow the latest developments with the Project, [sign up](https://groups.google.com/forum/#!forum/dtp-discuss) for dtp-discuss@googlegroup.com.
 
 </div>
 
