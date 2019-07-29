@@ -113,7 +113,7 @@ We welcome everyone to participate, the more expertise and viewpoints we have co
 
 <div class="section" markdown="1">
 <div class="section-text" markdown="1">
-## Current State
+## Latest Update
 <div class="mustache">
 </div>
 
