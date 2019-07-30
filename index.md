@@ -124,7 +124,7 @@ DTP is still in very active development, and while we have code that works for a
 </div>
 
 <div class="section" markdown="1">
-## Latest Update
+## Project Updates
 <div class="mustache">
 </div>
 We're excited about the progress we've made since we got this effort off the ground in July 2018. 
