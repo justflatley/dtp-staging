@@ -124,7 +124,6 @@ DTP is still in very active development, and while we have code that works for a
 </div>
 
 <div class="section" markdown="1">
-<div class="section-text" markdown="1">
 ## Latest Update
 <div class="mustache">
 </div>
@@ -137,5 +136,3 @@ We're excited about the progress we've made since we got this effort off the gro
 
 The engineering work we’ve done through the Project has highlighted the importance of working with stakeholders to develop guidelines around portability. If you'd like to follow the latest developments with the Project, [sign up](https://groups.google.com/forum/#!forum/dtp-discuss) for dtp-discuss@googlegroup.com.
 </div>
-</div>
-
