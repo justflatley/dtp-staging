@@ -9,7 +9,7 @@ description: Data Transfer Project is a collaboration of organizations committed
 <div class="mustache">
 </div>
 
-The Data Transfer Project was formed in 2017 to create an open-source, service-to-service data portability platform so that all individuals across the web could easily move their data between online service providers whenever they want.
+The Data Transfer Project was launched in 2018 to create an open-source, service-to-service data portability platform so that all individuals across the web could easily move their data between online service providers whenever they want.
 
 The contributors to the Data Transfer Project believe portability and interoperability are central to innovation. Making it easier for individuals to choose among services facilitates competition, empowers individuals to try new services and enables them to choose the offering that best suits their needs.
 
@@ -113,6 +113,18 @@ We welcome everyone to participate, the more expertise and viewpoints we have co
 
 <div class="section" markdown="1">
 <div class="section-text" markdown="1">
+## Current State
+<div class="mustache">
+</div>
+DTP is still in very active development, and while we have code that works for a variety of use cases, we are continually making improvements that might cause things to break occasionally. So as you are trying things please use it with caution and expect some hiccups. Both our bug list, as well as documentation in each provider’s directory are good places to look for known issues, or report problems you encounter.
+
+</div>
+
+<div class="section-image-container"><img class="section-image" src="./images/AI_Blue_User data.png"></div>
+</div>
+
+<div class="section" markdown="1">
+<div class="section-text" markdown="1">
 ## Latest Update
 <div class="mustache">
 </div>
@@ -124,11 +136,6 @@ We're excited about the progress we've made since we got this effort off the gro
   * We have added new integrations for Deezer, Mastodon, and Solid.
 
 The engineering work we’ve done through the Project has highlighted the importance of working with stakeholders to develop guidelines around portability. If you'd like to follow the latest developments with the Project, [sign up](https://groups.google.com/forum/#!forum/dtp-discuss) for dtp-discuss@googlegroup.com.
-
-A reminder: DTP is still in very active development, and while we have code that works for a variety of use cases, we are continually making improvements that might cause things to break occasionally. So as you are trying things please use it with caution and expect some hiccups. Both our bug list, as well as documentation in each provider’s directory are good places to look for known issues, or report problems you encounter.
-
 </div>
-
-<div class="section-image-container"><img class="section-image" src="./images/AI_Blue_User data.png"></div>
 </div>
 
