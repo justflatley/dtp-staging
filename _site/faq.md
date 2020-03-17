@@ -51,11 +51,3 @@ DTP is an open source project centered around the idea that less-resourced compa
 If you are interested in joining the project, please visit our [community]({{site.baseurl}}/community) page to learn how.
 
 </div>
-
-
-<div class="section" markdown="1">
-## Q: Are there common standards by which Data Transfer Project partners should abide in performing transfers?
-<div class="mustache">
-</div>
-
-</div>
